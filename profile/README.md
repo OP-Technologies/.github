@@ -1,4 +1,6 @@
-## Hi there 👋
+# Hiya! 👋
+## We're OP Technologies.
+Developing useful open-source software for like-minded people since 2023.
 
 <!--
 
